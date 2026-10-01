@@ -1,0 +1,101 @@
+[
+    {
+        "catechismID": 1,
+        "catechismLevel": 1,
+        "lessonNumber": "1",
+        "section": "On the End of Man",
+        "questionNumber": "1",
+        "question": "Who made the world?",
+        "answer": "God made the world."
+    },
+    {
+        "catechismID": 2,
+        "catechismLevel": 1,
+        "lessonNumber": "1",
+        "section": "On the End of Man",
+        "questionNumber": "2",
+        "question": "Who is God?",
+        "answer": "God is the Creator of heaven and earth, and of all things."
+    },
+    {
+        "catechismID": 3,
+        "catechismLevel": 1,
+        "lessonNumber": "1",
+        "section": "On the End of Man",
+        "questionNumber": "3",
+        "question": "What is man?",
+        "answer": "Man is a creature composed of body and soul, and made to the image and likeness of God."
+    },
+    {
+        "catechismID": 4,
+        "catechismLevel": 2,
+        "lessonNumber": "1",
+        "section": "On the End of Man",
+        "questionNumber": "4",
+        "question": "Is this likeness in the body or in the soul?",
+        "answer": "This likeness is chiefly in the soul, which is the image of God."
+    },
+    {
+        "catechismID": 5,
+        "catechismLevel": 2,
+        "lessonNumber": "1",
+        "section": "On the End of Man",
+        "questionNumber": "5",
+        "question": "How is the soul like to God?",
+        "answer": "The soul is like God because it is a spirit that will never die, and has understanding and free will."
+    },
+    {
+        "catechismID": 6,
+        "catechismLevel": 1,
+        "lessonNumber": "1",
+        "section": "On the End of Man",
+        "questionNumber": "6",
+        "question": "Why did God make you?",
+        "answer": "God made me to know Him, to love Him, and to serve Him in this world, and to be happy with Him forever in the next."
+    },
+    {
+        "catechismID": 7,
+        "catechismLevel": 2,
+        "lessonNumber": "1",
+        "section": "On the End of Man",
+        "questionNumber": "7",
+        "question": "Of which must we take more care, our soul or our body?",
+        "answer": "We must take more care of our soul than of our body."
+    },
+    {
+        "catechismID": 8,
+        "catechismLevel": 2,
+        "lessonNumber": "1",
+        "section": "On the End of Man",
+        "questionNumber": "8",
+        "question": "Why must we take more care of our soul than of our body?",
+        "answer": "We must take more care of our soul than of our body, because in losing our soul we lose God and everlasting happiness."
+    },
+    {
+        "catechismID": 9,
+        "catechismLevel": 1,
+        "lessonNumber": "1",
+        "section": "On the End of Man",
+        "questionNumber": "9",
+        "question": "What must we do to save our souls?",
+        "answer": "To save our souls, we must worship God by faith, hope, and charity, this is, we must believe in Him, hope in Him, and love Him with all our heart."
+    },
+    {
+        "catechismID": 10,
+        "catechismLevel": 1,
+        "lessonNumber": "1",
+        "section": "On the End of Man",
+        "questionNumber": "10",
+        "question": "How shall we know the things which we are to believe?",
+        "answer": "We shall know the things which we are to believe from the Catholic Church, through which God speaks to us."
+    },
+    {
+        "catechismID": 11,
+        "catechismLevel": 1,
+        "lessonNumber": "1",
+        "section": "On the End of Man",
+        "questionNumber": "11",
+        "question": "Where shall we find the chief truths which the Church teaches?",
+        "answer": "We shall find the chief truths which the Church teaches in the Apostles' Creed."
+    }
+]

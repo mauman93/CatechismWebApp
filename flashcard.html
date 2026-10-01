@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>CatechismAPP - Flashcards</title>
+    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="stylesheet" href="css/flashcard.css" />
+  </head>
+  <body class="centeredPage">
+    <div id="flashcardContainer">
+      <div id="flashcard" class="flashcard">
+        <div id="cardFront" class="card-face">Question text here</div>
+        <div id="cardBack" class="card-face hidden">Answer text here</div>
+      </div>
+
+      <button id="flipButton">Flip</button>
+      <p></p>
+      <button id="previousButton">Previous</button>
+      <button id="nextButton">Next</button>
+    </div>
+
+    <script src="js/model/Question.js"></script>
+    <script src="js/model/LessonLoader.js"></script>
+    <script src="js/model/QuestionGroupSelector.js"></script>
+    <script src="js/model/flashcardModel.js"></script>
+    <script src="js/view/flashcardView.js"></script>
+    <script src="js/controller/flashcardController.js"></script>
+  </body>
+</html>

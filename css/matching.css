@@ -1,0 +1,48 @@
+#matchingBoard {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 20px;
+}
+
+#questionsColumn, #answersColumn {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.match-item {
+    width: 250px;
+    height: 110px;
+    text-align: left;
+    white-space: normal;
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #cccccc;
+}
+
+.match-item.selected {
+    background-color: #1cb0f6;
+    color:#ffffff;
+}
+
+.match-item.matched {
+    background-color: #58cc02;
+    color: #ffffff;
+    cursor: default;
+}
+
+.match-item.incorrect {
+    background-color: #ff4b4b;
+    color:#ffffff;
+}
+
+#finishMatchingButton{
+    display: block;
+    margin: 20px auto 0;
+}
+
+#finishMatchingButton:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+}

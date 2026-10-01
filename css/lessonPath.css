@@ -1,0 +1,65 @@
+#lessonHeader {
+    position: sticky;
+    top: 0;
+    background-color: #c0e8fa;
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+    z-index: 10;
+}
+
+.path-node {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: none;
+    background-color: #58cc02;
+    color: #ffffff;
+    font-weight: bold;
+    margin: 50px auto;
+    cursor: pointer;
+    position: relative;
+    display: block;
+    scroll-margin-top: 130px;
+}
+
+.path-node-flashcard {
+    background-color: #58cc02;
+}
+
+#lessonPath {
+    max-width: 600px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.path-node.path-node-final {
+    background-color: transparent;
+    border-radius: 0;
+    color: #ffc800;
+    font-size: 150px;
+}
+
+.flashcard-icon-back,
+.flashcard-icon-front {
+    position: absolute;
+    width: 45px;
+    height: 32px;
+    background-color: #ffffff;
+    border-radius: 4px;
+}
+
+.flashcard-icon-back {
+    top: 20px;
+    left: 20px;
+    transform: rotate(-12deg);
+    border: 1px solid #000000;
+}
+
+.flashcard-icon-front {
+    top: 46px;
+    left: 35px;
+    transform: rotate(12deg);
+    border: 1px solid #000000;
+}
+
